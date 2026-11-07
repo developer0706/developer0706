@@ -1,6 +1,6 @@
 ## Hey there 👋
 
-I'm Rashi Yadav, an Computer Science Engineering student.
+I'm Rashi Yadav, a Computer Science Engineering student.
 
 I love building innovative, technology-driven projects that solve real-world problems, create meaningful social impact, and make problem-solving exciting rather than conventional.
 
