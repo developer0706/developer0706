@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey there 👋
 
 I'm Rashi Yadav, an Computer Science Engineering student.
 
